@@ -1,9 +1,22 @@
-## Hi there 👋
+## Title 👋
 
-<!--
-**amelia-barr/amelia-barr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+
+### My Projects
++
++
++
+
+### Why DigiTech?
+.
+
+### Coding Languages
++ HTML
++ CSS
++ 
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
